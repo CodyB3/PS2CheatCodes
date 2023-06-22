@@ -9,5 +9,3 @@ patch=1,EE,01E8EC80,extended,000000FF
 patch=1,EE,01E8EC8C,extended,000000FF
 patch=1,EE,01E8EC98,extended,000000FF
 patch=1,EE,01E8ECA4,extended,000000FF
-
-patch=1,EE,0064D409,extended,000000FF // Rainbow Car Color. (Changes it during race.)
