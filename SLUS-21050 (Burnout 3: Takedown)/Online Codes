@@ -3,7 +3,7 @@ patch=1,EE,207B174C,extended,00320031
 patch=1,EE,207B17CA,extended,00320031
 patch=1,EE,207B18B8,extended,00320031
 
-patch=1,EE,01E9FA9E,extended,00000000 // Always press ok when creating/logging into account.
+patch=1,EE,01E9FA9E,extended,00000000 // Button always enabled when creating/logging into account.
 patch=1,EE,01E9FB72,extended,00000000
 patch=1,EE,01E9B622,extended,00000000
 
