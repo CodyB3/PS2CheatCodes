@@ -1,1 +1,4 @@
+patch=1,EE,01E9FA9E,extended,00000000 // Always press ok when creating/logging into account.
+patch=1,EE,01E9FB72,extended,00000000
+patch=1,EE,01E9B622,extended,00000000
 
