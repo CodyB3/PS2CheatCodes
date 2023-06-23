@@ -7,3 +7,5 @@ patch=0,EE,0064E510,extended,00000000 // Road Rage teams. (0 for Blue, 1 for Red
 patch=0,EE,0064E58C,extended,00000000 // Road Rage infinite boost. (0 for no, 1 for yes. Change patch=1 to 0 if you want to disable the cheat.)
 
 patch=0,EE,0064E734,extended,00000003 // Online lap counter.
+
+patch=0,EE,2064EA64,extended,3F800000 // Damage value.
