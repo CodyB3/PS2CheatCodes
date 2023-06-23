@@ -9,6 +9,6 @@ patch=1,EE,01E9B622,extended,00000000
 
 patch=1,EE,2039F588,extended,80D07F00 // Select 0 laps by going below 1.
 
-patch=1,EE,0064E510,extended,00000000 // Road Rage teams. (0 for Blue, 1 for Red. Change "patch=1" to 0 if you want to disable the cheat.)
+patch=1,EE,0064E510,extended,00000000 // Road Rage teams. (0 for Blue, 1 for Red. Change patch=1 to 0 if you want to disable the cheat.)
 
-patch=1,EE,0064E58C,extended,00000000 // Road Rage infinite boost. (0 for no, 1 for yes. Change "patch=1" to 0 if you want to disable the cheat.)
+patch=1,EE,0064E58C,extended,00000000 // Road Rage infinite boost. (0 for no, 1 for yes. Change patch=1 to 0 if you want to disable the cheat.)
