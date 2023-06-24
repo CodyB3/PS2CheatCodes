@@ -12,6 +12,6 @@ patch=1,EE,2039F588,extended,80D07F00 // Select 0 laps by going below 1.
 patch=0,EE,01E8E7EA,extended,00000000 // Disable globe in online menu. (Also disables the world tour globe.)
 patch=0,EE,01E8E803,extended,00000000
 
-patch=1,EE,01E99778,extended,00000006 // Team Crush with 6 players.
+patch=1,EE,01E99778,extended,00000006 // Team Crush with 6 players?
 patch=1,EE,01E99888,extended,00000002
 patch=1,EE,01AC167C,extended,00000006
