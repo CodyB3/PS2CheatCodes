@@ -15,3 +15,4 @@ patch=0,EE,01E8E803,extended,00000000
 patch=1,EE,01E99778,extended,00000006 // Team Crush with 6 players?
 patch=1,EE,01E99888,extended,00000002
 patch=1,EE,01AC167C,extended,00000006
+patch=1,EE,01AC1B6C,extended,00000006
