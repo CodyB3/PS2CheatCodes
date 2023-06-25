@@ -14,3 +14,4 @@ patch=0,EE,01E8E803,extended,00000000
 
 patch=1,EE,01E99888,extended,00000002 // Any game mode with 255 players.
 patch=1,EE,01AC167C,extended,000000FF
+patch=1,EE,01AC1B6C,extended,000000FF
