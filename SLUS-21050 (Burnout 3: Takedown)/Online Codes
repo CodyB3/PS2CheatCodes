@@ -1,4 +1,4 @@
-patch=1,EE,207B1632,extended,00AE00A9 // Numpad Changer. (Default is 00320031. Put in code point of characters to change numpad. It's in UTF-16.)
+patch=1,EE,207B1632,extended,00AE00A9 // Numpad Changer. (Default is 00320031. Put in code point of characters to change numpad. It uses two bytes per character.)
 patch=1,EE,207B174C,extended,00AE00A9
 patch=1,EE,207B17CA,extended,00AE00A9
 patch=1,EE,207B18B8,extended,00AE00A9
@@ -17,7 +17,7 @@ patch=1,EE,01E99888,extended,00000002
 patch=1,EE,01AC167C,extended,000000FF
 patch=1,EE,01AC1B6C,extended,000000FF
 
-patch=1,EE,21E3D390,extended,61632049 // Status Changer. (Put in code point of characters to change status. You will need to appear offline and online for it to appear. It's in UTF-8.)
+patch=1,EE,21E3D390,extended,61632049 // Status Changer. (Put in code point of characters to change status. You will need to appear offline and online for it to appear. It uses one byte per character.)
 patch=1,EE,21E3D394,extended,6863206E // Testing it, it appears to go back to normal when you do anything to change the status. You will have to appear offline and online again for it to appear.
 patch=1,EE,21E3D398,extended,65676E61
 patch=1,EE,21E3D39C,extended,69687420
