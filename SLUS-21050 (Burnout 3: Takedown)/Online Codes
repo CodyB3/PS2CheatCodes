@@ -1,4 +1,4 @@
-patch=1,EE,207B1632,extended,00320031 // Put hacked symbols on the numpad. (Default is 00320031. Use the hex value of characters to replace them on the numpad.)
+patch=1,EE,207B1632,extended,00320031 // Put hacked symbols on the numpad. (Default is 00320031. Put in hex of characters to change numpad.)
 patch=1,EE,207B174C,extended,00320031
 patch=1,EE,207B17CA,extended,00320031
 patch=1,EE,207B18B8,extended,00320031
@@ -16,3 +16,13 @@ patch=1,EE,01E99778,extended,000000FF // Any game mode with 255 players?
 patch=1,EE,01E99888,extended,00000002
 patch=1,EE,01AC167C,extended,000000FF
 patch=1,EE,01AC1B6C,extended,000000FF
+
+patch=1,EE,21E3D390,extended,61632049 // Status Changer. (Put in hex of characters to change status. You will need to appear offline and online for it to appear.)
+patch=1,EE,21E3D394,extended,6863206E // Testing it, it appears to go back to normal when you do anything to change the status. You will have to switch offline and online again for it to appear.
+patch=1,EE,21E3D398,extended,65676E61
+patch=1,EE,21E3D39C,extended,69687420
+patch=1,EE,21E3D3A0,extended,65742073
+patch=1,EE,21E3D3A4,extended,58207478
+patch=1,EE,21E3D3A8,extended,00000044
+patch=1,EE,21E3D3AC,extended,00000000
+patch=1,EE,21E3D3B0,extended,00000000
