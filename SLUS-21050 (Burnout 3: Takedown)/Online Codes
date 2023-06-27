@@ -1,7 +1,7 @@
-patch=1,EE,207B1632,extended,00320031 // Numpad Changer. (Default is 00320031. Put in code point of characters to change numpad. It's in UTF-16.)
-patch=1,EE,207B174C,extended,00320031
-patch=1,EE,207B17CA,extended,00320031
-patch=1,EE,207B18B8,extended,00320031
+patch=1,EE,207B1632,extended,00AE00A9 // Numpad Changer. (Default is 00320031. Put in code point of characters to change numpad. It's in UTF-16.)
+patch=1,EE,207B174C,extended,00AE00A9
+patch=1,EE,207B17CA,extended,00AE00A9
+patch=1,EE,207B18B8,extended,00AE00A9
 
 patch=1,EE,01E9FA9E,extended,00000000 // Button always enabled when creating/logging into account.
 patch=1,EE,01E9FB72,extended,00000000
