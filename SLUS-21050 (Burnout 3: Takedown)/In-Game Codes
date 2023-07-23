@@ -9,3 +9,5 @@ patch=0,EE,0064E58C,extended,00000000 // Road Rage infinite boost. (0 for no, 1 
 patch=0,EE,0064E734,extended,00000003 // Online lap counter.
 
 patch=0,EE,2064EA64,extended,3F800000 // Damage value.
+
+patch=1,EE,0064ECA1,extended,00000001 // Orange flames.
