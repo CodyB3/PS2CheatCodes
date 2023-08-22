@@ -30,3 +30,5 @@ patch=1,EE,21E3D3B0,extended,00000000
 patch=1,EE,01E3D595,extended,00000001 // Skip PAL message when first connecting online.
 
 patch=1,EE,01E9FC3C,extended,00000000 // Send mail to anyone.
+
+patch=1,EE,21EA0108,extended,00000000 // Choose any game mode.
