@@ -33,10 +33,22 @@ patch=1,EE,01E9FC3C,extended,00000000 // Send mail to anyone.
 
 patch=1,EE,21EA0108,extended,00000000 // Choose any online game mode.
 
-patch=1,EE,21E8CA51,extended,01010101 // All characters allowed on keyboard.
-patch=1,EE,21E8CA55,extended,01010101
-patch=1,EE,21E8CA59,extended,01010101
+patch=1,EE,21E8CA40,extended,01010101  // All characters allowed on keyboard.
+patch=1,EE,21E8CA44,extended,01010101
+patch=1,EE,21E8CA48,extended,01010101
+patch=1,EE,21E8CA4C,extended,01010101
+patch=1,EE,21E8CA50,extended,01010101
+patch=1,EE,21E8CA54,extended,01010101
+patch=1,EE,21E8CA58,extended,01010101
+patch=1,EE,21E8CA5C,extended,01010101
+patch=1,EE,21E8CA60,extended,01010101
 patch=1,EE,21E8CA64,extended,01010101
 patch=1,EE,21E8CA68,extended,01010101
-patch=1,EE,21E8CA6F,extended,01010101
-patch=1,EE,21E8CA73,extended,01010101
+patch=1,EE,21E8CA6C,extended,01010101
+patch=1,EE,21E8CA70,extended,01010101
+patch=1,EE,21E8CA74,extended,01010101
+patch=1,EE,21E8CA78,extended,01010101
+patch=1,EE,21E8CA7C,extended,01010101
+patch=1,EE,21E8CA80,extended,01010101
+patch=1,EE,21E8CA84,extended,01010101
+patch=1,EE,21E8CA88,extended,01010101
