@@ -13,3 +13,6 @@ patch=0,EE,2064EA64,extended,3F800000 // Damage value.
 patch=1,EE,0064ECA1,extended,00000001 // Orange flames.
 
 patch=1,EE,2057CE98,extended,C0000000 // Pinball Physics.
+
+patch=1,EE,D04F50DC,extended,0000DFFF // Exit to lobby (Circle).
+patch=1,EE,0051B689,extended,00000001
