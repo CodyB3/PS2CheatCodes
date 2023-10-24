@@ -22,3 +22,6 @@ patch=0,EE,2064D3E0,extended,00000000 // X coordinate, change patch to 1 to enab
 patch=0,EE,2064D3E4,extended,00000000 // Y coordinate, change patch to 1 to enable it.
 
 patch=0,EE,2064D3E8,extended,00000000 // Z coordinate, change patch to 1 to enable it.
+
+patch=1,EE,D04F50DC,extended,0000DFFF // End game offline (Circle).
+patch=1,EE,0064D3A0,extended,00000000
