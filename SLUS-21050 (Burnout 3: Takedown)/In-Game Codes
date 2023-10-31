@@ -27,3 +27,8 @@ patch=1,EE,D04F50DC,extended,0000DFFF // End game offline (Circle).
 patch=1,EE,0064D3A0,extended,00000000
 
 patch=0,EE,2019C3BC,extended,A2001F99 // Drive through red barrier.
+
+patch=1,EE,D04F50DC,extended,0000FFFD // Toggle between crash physics (L3 for off, R3 for on).
+patch=1,EE,0057BD00,extended,00000000
+patch=1,EE,D04F50DC,extended,0000FFFB
+patch=1,EE,0057BD00,extended,00000001
