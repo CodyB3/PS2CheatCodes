@@ -32,3 +32,14 @@ patch=1,EE,D04F50DC,extended,0000FFFD // Toggle between crash physics (L3 for of
 patch=1,EE,0057BD00,extended,00000000
 patch=1,EE,D04F50DC,extended,0000FFFB
 patch=1,EE,0057BD00,extended,00000001
+
+patch=1,EE,201C4D80,extended,0C02AAA8 // Anticlimactic wreck (freezes your car and other AI cars when they wreck.)
+patch=1,EE,201C4D84,extended,00000000
+patch=1,EE,200AAAA0,extended,4408A800
+patch=1,EE,200AAAA4,extended,0000402D
+patch=1,EE,200AAAA8,extended,4488A800
+patch=1,EE,200AAAAC,extended,00000000
+patch=1,EE,200AAAB0,extended,46150000
+patch=1,EE,200AAAB4,extended,E6401530
+patch=1,EE,200AAAB8,extended,00000000
+patch=1,EE,200AAABC,extended,03E00008 
