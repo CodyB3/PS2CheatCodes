@@ -43,3 +43,6 @@ patch=1,EE,200AAAAC,extended,46150000
 patch=1,EE,200AAAB0,extended,E6401530
 patch=1,EE,200AAAB4,extended,00000000
 patch=1,EE,200AAAB8,extended,03E00008
+
+patch=1,EE,201BD5F8,extended,3C02XXXX // Car strength in crash mode. (Change last two bytes with float value to change car strength.)
+patch=1,EE,201BD604,extended,3C02XXXX // Car strength in race mode. (Change last two bytes with float value to change car strength.)
