@@ -48,3 +48,8 @@ patch=1,EE,201BD5F8,extended,3C02XXXX // Car strength in crash mode. (Change las
 patch=1,EE,201BD604,extended,3C02XXXX // Car strength in race mode. (Change last two bytes with float value to change car strength. Default is 1.)
 
 patch=1,EE,0064FB78,extended,00000000 // Move during the rolling start cutscene.
+
+patch=1,EE,D04F50DC,extended,0000FFFD // Toggle between letting the AI control your car. (L3 for off, R3 for on).
+patch=1,EE,0064FB78,extended,00000000
+patch=1,EE,D04F50DC,extended,0000FFFB
+patch=1,EE,0064FB78,extended,00000001
