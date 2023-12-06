@@ -64,3 +64,5 @@ patch=1,EE,200AAB0C,extended,461A0001
 patch=1,EE,200AAB10,extended,E6000000
 patch=1,EE,200AAB14,extended,00000000
 patch=1,EE,200AAB18,extended,03E00008
+
+patch=1,EE,201B021C,extended,3C03XXXX // How many seconds until you respawn once you crash. (Default is 3.)
