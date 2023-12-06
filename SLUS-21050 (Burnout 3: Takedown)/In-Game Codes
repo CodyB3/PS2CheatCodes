@@ -56,7 +56,7 @@ patch=1,EE,0064FB78,extended,00000001
 
 patch=1,EE,201B1ED4,extended,0C02AAC0 // Change timescale of crash timer. (Change the float value to edit how fast the timer counts down.)
 patch=1,EE,201B1ED8,extended,00000000
-patch=1,EE,200AAAF8,extended,XXXXXXXX // Float Value.
+patch=1,EE,200AAAF8,extended,XXXXXXXX // Float Value (Default is 0.016667.)
 patch=1,EE,200AAB00,extended,3C08000B
 patch=1,EE,200AAB04,extended,C51AAAF8
 patch=1,EE,200AAB08,extended,00000000
