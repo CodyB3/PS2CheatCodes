@@ -81,3 +81,14 @@ patch=1,EE,207B15F6,extended,005F002D
 patch=1,EE,207B15FA,extended,003E003C
 
 patch=1,EE,01E9FABD,extended,00000000 // Edit account name in account menu.
+
+patch=1,EE,203B64A8,extended,0C02AB40 // Change speed of globe in online menu. (Default is 0.033333.)
+patch=1,EE,203B64AC,extended,00000000
+patch=1,EE,200AACFC,extended,XXXXXXXX // Float Value.
+patch=1,EE,200AAD00,extended,3C09000B
+patch=1,EE,200AAD04,extended,C535ACFC
+patch=1,EE,200AAD08,extended,00000000
+patch=1,EE,200AAD0C,extended,46011818
+patch=1,EE,200AAD10,extended,4615105C
+patch=1,EE,200AAD14,extended,00000000
+patch=1,EE,200AAD18,extended,03E00008
