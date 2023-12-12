@@ -92,3 +92,6 @@ patch=1,EE,200AAD0C,extended,46011818
 patch=1,EE,200AAD10,extended,4615105C
 patch=1,EE,200AAD14,extended,00000000
 patch=1,EE,200AAD18,extended,03E00008
+
+patch=1,EE,203B6470,extended,3C04XXXX // Change globe size in online menu. (Default is 1000.)
+patch=1,EE,203B6464,extended,3C02XXXX // Change X position of globe in online menu. (Default is -100.)
