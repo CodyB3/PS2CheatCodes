@@ -95,3 +95,25 @@ patch=1,EE,200AAD18,extended,03E00008
 
 patch=1,EE,203B6470,extended,3C04XXXX // Change globe size in online menu. (Default is 1000.)
 patch=1,EE,203B6464,extended,3C02XXXX // Change X position of globe in online menu. (Default is -100.)
+
+patch=1,EE,203B64A8,extended,0C02AB40 // Interactive globe in online menu. (Use right thumbstick to spin the globe around.)
+patch=1,EE,203B64AC,extended,00000000
+patch=1,EE,200AAD00,extended,3C09004F
+patch=1,EE,200AAD04,extended,C53953F0
+patch=1,EE,200AAD08,extended,3C0A4000
+patch=1,EE,200AAD0C,extended,448AD000
+patch=1,EE,200AAD10,extended,461ACD43
+patch=1,EE,200AAD14,extended,00000000
+patch=1,EE,200AAD18,extended,4480D800
+patch=1,EE,200AAD1C,extended,461B0834
+patch=1,EE,200AAD20,extended,45010006
+patch=1,EE,200AAD24,extended,00000000
+patch=1,EE,200AAD28,extended,46011818
+patch=1,EE,200AAD2C,extended,4615105C
+patch=1,EE,200AAD30,extended,00000000
+patch=1,EE,200AAD34,extended,03E00008
+patch=1,EE,200AAD38,extended,00000000
+patch=1,EE,200AAD3C,extended,3C0C43B3
+patch=1,EE,200AAD40,extended,448CE000
+patch=1,EE,200AAD44,extended,4600E046
+patch=1,EE,200AAD48,extended,1000FFF7
