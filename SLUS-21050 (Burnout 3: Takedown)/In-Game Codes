@@ -68,3 +68,5 @@ patch=1,EE,200AAB18,extended,03E00008
 patch=1,EE,201B021C,extended,3C03XXXX // How many seconds until you respawn once you crash. (Default is 3.)
 
 patch=1,EE,201B1ED4,extended,44800000 // Instant respawn once you crash.
+
+patch=1,EE,01AD947C,extended,00000000 // Disable ramps in crash mode.
