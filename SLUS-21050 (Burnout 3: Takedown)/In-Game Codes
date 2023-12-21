@@ -70,3 +70,20 @@ patch=1,EE,201B021C,extended,3C03XXXX // How many seconds until you respawn once
 patch=1,EE,201B1ED4,extended,44800000 // Instant respawn once you crash.
 
 patch=1,EE,01AD947C,extended,00000000 // Disable ramps in crash mode.
+
+patch=1,EE,202E47B0,extended,0C029400 // Drunk camera.
+patch=1,EE,202E47B4,extended,00000000
+patch=1,EE,202E4960,extended,0C029407
+patch=1,EE,202E4964,extended,00000000
+patch=1,EE,200A5000,extended,3C0E3F80
+patch=1,EE,200A5004,extended,448E0800
+patch=1,EE,200A5008,extended,44030800
+patch=1,EE,200A500C,extended,44050000
+patch=1,EE,200A5010,extended,00000000
+patch=1,EE,200A5014,extended,03E00008
+patch=1,EE,200A5018,extended,00000000
+patch=1,EE,200A501C,extended,3C0E3F80
+patch=1,EE,200A5024,extended,44030800
+patch=1,EE,200A5028,extended,48A40800
+patch=1,EE,200A502C,extended,00000000
+patch=1,EE,200A5030,extended,03E00008
