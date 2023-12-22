@@ -9,3 +9,12 @@ patch=1,EE,01E8EC80,extended,000000FF
 patch=1,EE,01E8EC8C,extended,000000FF
 patch=1,EE,01E8EC98,extended,000000FF
 patch=1,EE,01E8ECA4,extended,000000FF
+
+patch=1,EE,20427A44,extended,0C028000 // Change timescale of garage. (Default is 0.033333.)
+patch=1,EE,20427A48,extended,00000000
+patch=1,EE,200A0000,extended,C48000A4
+patch=1,EE,200A0004,extended,3C09XXXX // Float Value.
+patch=1,EE,200A0008,extended,44896000
+patch=1,EE,200A000C,extended,46006506
+patch=1,EE,200A0010,extended,00000000
+patch=1,EE,200A0014,extended,03E00008
