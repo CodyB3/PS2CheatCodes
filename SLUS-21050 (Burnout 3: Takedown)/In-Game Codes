@@ -87,3 +87,12 @@ patch=1,EE,200A5024,extended,44030800
 patch=1,EE,200A5028,extended,48A40800
 patch=1,EE,200A502C,extended,00000000
 patch=1,EE,200A5030,extended,03E00008
+
+patch=1,EE,20255DF4,extended,0C024000 // Enable white filter in races. (Do a crash event to enable it, change float value to change the intensity.)
+patch=1,EE,20255DF8,extended,00000000
+patch=1,EE,20090000,extended,3C08XXXX // Float Value.
+patch=1,EE,20090004,extended,44880800
+patch=1,EE,20090008,extended,24020001
+patch=1,EE,2009000C,extended,AC820008
+patch=1,EE,20090010,extended,00000000
+patch=1,EE,20090014,extended,03E00008
