@@ -1,1 +1,4 @@
 patch=1,EE,202480B4,extended,3C02XXXX // How many seconds until you respawn once you crash. (Default is 5.)
+
+patch=1,EE,2039C364,extended,XXXXXXXX // Change top speed of your car.
+patch=1,EE,206C80B8,extended,XXXXXXXX // Change acceleration of your car.
