@@ -96,3 +96,5 @@ patch=1,EE,20090008,extended,24020001
 patch=1,EE,2009000C,extended,AC820008
 patch=1,EE,20090010,extended,00000000
 patch=1,EE,20090014,extended,03E00008
+
+patch=1,EE,00580076,extended,00000001 // Always use crashbreaker in crash mode.
