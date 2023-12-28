@@ -98,3 +98,17 @@ patch=1,EE,20090010,extended,00000000
 patch=1,EE,20090014,extended,03E00008
 
 patch=1,EE,00580076,extended,00000001 // Always use crashbreaker in crash mode.
+
+patch=1,EE,201B435C,extended,0C020400 // Disable traffic once you become near the limit. (Without the check to see if you don't have crash physics.)
+patch=1,EE,201B4360,extended,00000000
+patch=1,EE,201B4364,extended,0C04C790
+patch=1,EE,20081000,extended,24420001
+patch=1,EE,20081004,extended,24080040
+patch=1,EE,20081008,extended,10480004
+patch=1,EE,2008100C,extended,00000000
+patch=1,EE,20081010,extended,ACA2620C
+patch=1,EE,20081014,extended,03E00008
+patch=1,EE,20081018,extended,00000000
+patch=1,EE,2008101C,extended,3C080056
+patch=1,EE,20081020,extended,A100D7FB
+patch=1,EE,20081024,extended,1000FFFA
