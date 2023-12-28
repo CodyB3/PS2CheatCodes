@@ -1,3 +1,17 @@
 patch=1,EE,01E98484,extended,00000001 // All intros allowed to be skipped.
 
 patch=1,EE,0051A8BB,extended,00000000 // Disable background looping.
+
+patch=1,EE,203250C8,extended,0C020001 // Fast forward intros. (Press R3 to speed up the intros.)
+patch=1,EE,203250CC,extended,00000000
+patch=1,EE,20080004,extended,3C08004F
+patch=1,EE,20080008,extended,91095375
+patch=1,EE,2008000C,extended,15200005
+patch=1,EE,20080010,extended,00000000
+patch=1,EE,20080014,extended,46010000
+patch=1,EE,20080018,extended,E620003C
+patch=1,EE,2008001C,extended,03E00008
+patch=1,EE,20080020,extended,00000000
+patch=1,EE,20080024,extended,3C0A40A0
+patch=1,EE,20080028,extended,448A0800
+patch=1,EE,2008002C,extended,1000FFF9
