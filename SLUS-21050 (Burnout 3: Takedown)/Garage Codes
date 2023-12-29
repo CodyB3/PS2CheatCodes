@@ -30,3 +30,5 @@ patch=1,EE,20085010,extended,03E00008
 patch=1,EE,20085014,extended,00000000
 patch=1,EE,20085018,extended,240500FE
 patch=1,EE,2008501C,extended,1000FFFB
+
+patch=1,EE,2042BCE8,extended,70A028E8 // Use 255 colors in garage. (Doesn't jump to 254 after the 8th color.)
