@@ -19,7 +19,7 @@ patch=1,EE,200A000C,extended,46006506
 patch=1,EE,200A0010,extended,00000000
 patch=1,EE,200A0014,extended,03E00008
 
-patch=1,EE,2042BCE8,extended,70A028E8 // 10 colors in garage. (Use with 8 colors to get all 10 colors.)
+patch=1,EE,2042BCEC,extended,240500FE // 10 colors in garage. (Use with 8 colors to get all 10 colors.)
 patch=1,EE,2042BCF8,extended,0C021400
 patch=1,EE,2042BCFC,extended,00000000
 patch=1,EE,20085000,extended,2403FFFF
