@@ -112,3 +112,5 @@ patch=1,EE,20081018,extended,00000000
 patch=1,EE,2008101C,extended,3C080056
 patch=1,EE,20081020,extended,A100D7FB
 patch=1,EE,20081024,extended,1000FFFA
+
+patch=1,EE,2030B454,extended,3C03XXXX // Change intensity of the boost flames. (Default is 1.)
