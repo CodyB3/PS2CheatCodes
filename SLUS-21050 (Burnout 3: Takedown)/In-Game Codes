@@ -140,3 +140,14 @@ patch=1,EE,20081248,extended,8D22CF14
 patch=1,EE,2008124C,extended,3C0240A0
 patch=1,EE,20081250,extended,AD22CF14
 patch=1,EE,20081254,extended,1000FFF3
+
+patch=1,EE,201D3C04,extended,08020480 // "Power Steer" using the left stick.
+patch=1,EE,20081200,extended,3C08004F
+patch=1,EE,20081204,extended,C51953E8
+patch=1,EE,20081208,extended,3C094000
+patch=1,EE,2008120C,extended,4489D000
+patch=1,EE,20081210,extended,461ACE42
+patch=1,EE,20081214,extended,4402C800
+patch=1,EE,20081218,extended,3C0A0058
+patch=1,EE,2008121C,extended,AD42CF14
+patch=1,EE,20081220,extended,03E00008
